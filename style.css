@@ -45,3 +45,8 @@ a{
 a:hover{
 	color: #339AF0;
 }
+.slide{
+	height: 80vh;
+	background-image: url('img/background.jpeg');
+	background-size: cover;
+}
