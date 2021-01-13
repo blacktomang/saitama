@@ -1,4 +1,4 @@
 # saitama
 ---
-permalink: /404.html
+permalink: /index.html
 ---
